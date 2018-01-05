@@ -1,0 +1,6 @@
+#ignore state files
+.terraform
+*.tfstate*
+# ignore generated files
+admin.conf
+join.sh
